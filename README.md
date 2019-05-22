@@ -2,6 +2,11 @@
 
 ### Taller de programación de python/Django.
 
+
+(*) Python
+(*) Django
+(*) HTML5
+
 (*) Python 
 (*) Django
 (*) HTML5
